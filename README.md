@@ -1,2 +1,2 @@
 # pingcheck
-LinxuобеЗа©pingжВ╩З╣д╫е╠╬
+LinxuД╦▀Ф┴╧И┤▐pingД╦╩Ф°╨Г └Х└ Ф°╛
