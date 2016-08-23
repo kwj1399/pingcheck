@@ -47,5 +47,3 @@ if __name__ == '__main__':
         T_thread.append(t)
     for i in range(len(T_thread)):
         T_thread[i].start()
-    
-            
